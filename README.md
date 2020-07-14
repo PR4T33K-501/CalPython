@@ -1,6 +1,6 @@
-# simple-calculat0r
+# CalPython
 
-This is a simple calculator which is written in Python Language.
+This is a Basic calculator which is written in Python Language.
 
 ## Installation
 
@@ -8,14 +8,14 @@ This is a simple calculator which is written in Python Language.
 
     $ pkg install python3
     $ pkg install git
-    $ git clone https://github.com/PR4T33K-501/simple-calculat0r
+    $ git clone https://github.com/PR4T33K-501/CalPython
     
 ## For Kali Linux:
 
     $ sudo apt-get install python3
     $ sudo apt-get install git 
-    $ cd git clone https://github.com/PR4T33K-501/simple-calculat0r
+    $ cd git clone https://github.com/PR4T33K-501/CalPython
   
 ## Run:
-    $ cd simple-calculat0r
+    $ cd CalPython
     $ python3 cal.py
